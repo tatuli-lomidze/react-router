@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-router/static/css/main.4c0bab38.css",
+    "main.js": "/react-router/static/js/main.d5e1f6fb.js",
+    "static/js/592.6cc749b4.chunk.js": "/react-router/static/js/592.6cc749b4.chunk.js",
+    "static/media/crime.jpg": "/react-router/static/media/crime.fc1416b8453cee1a4c70.jpg",
+    "static/media/metamorphosis.jpg": "/react-router/static/media/metamorphosis.95170f7795da20df3a2d.jpg",
+    "static/media/karenina.jpg": "/react-router/static/media/karenina.62d5750672dc0b8c133b.jpg",
+    "index.html": "/react-router/index.html",
+    "main.4c0bab38.css.map": "/react-router/static/css/main.4c0bab38.css.map",
+    "main.d5e1f6fb.js.map": "/react-router/static/js/main.d5e1f6fb.js.map",
+    "592.6cc749b4.chunk.js.map": "/react-router/static/js/592.6cc749b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c0bab38.css",
+    "static/js/main.d5e1f6fb.js"
+  ]
+}
